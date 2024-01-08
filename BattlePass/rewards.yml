@@ -4,7 +4,7 @@
   lore-addon:
     - '&7 - &eA cool message'
   commands:
-    - 'msg %player% Sweet!'
+    - 'msg %player% Sweet!'sdfgsdfsdfgsdfsdf
 
 '2':
   type: item
